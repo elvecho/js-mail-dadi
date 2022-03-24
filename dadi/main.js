@@ -1,8 +1,8 @@
-let numerocomputer = Math.floor(Math.random()*6);
+let numerocomputer = Math.floor((Math.random()*6)+1);
 console.log("numerocomputer");
 console.log(numerocomputer);
 
-let numerogiocatore = Math.floor(Math.random()*6);
+let numerogiocatore = Math.floor((Math.random()*6)+1);
 console.log("numerogiocatore");
 console.log(numerogiocatore);
 
